@@ -6,16 +6,18 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  border: 8px solid #ffffff;
+  border: 8px solid #fff;
   margin: 16px auto;
 }
 
 .title {
   background: #e3f4ff;
+  margin-bottom: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  margin-bottom: 8px;
 }
 
 .button-container {
