@@ -15,6 +15,10 @@ body {
   justify-content: center;
 }
 
+.modal-content {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .header {
   font-weight: bold;
