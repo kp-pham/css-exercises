@@ -17,6 +17,15 @@ img {
 .plants {
   display: flex;
   gap: 52px;
+  justify-content: center;
+}
+
+.plant-type {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 200px;
+  text-align: center;
 }
 
 
