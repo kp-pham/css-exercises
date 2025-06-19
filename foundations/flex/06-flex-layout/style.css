@@ -53,4 +53,5 @@ a:active {
   flex-wrap: wrap;
   flex-direction: column;
   align-items: center;
+  gap: 20px;
 }
