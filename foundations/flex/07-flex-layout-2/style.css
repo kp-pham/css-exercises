@@ -55,10 +55,15 @@ a {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
+  gap: 20px;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  font-size: 14px;
+  padding: 20px;
+  flex: 1 1 calc(33.333% - 20px);
+  max-width: 250px;
 }
