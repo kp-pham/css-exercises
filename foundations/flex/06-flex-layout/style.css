@@ -25,6 +25,18 @@ input {
   width: 400px;
 }
 
+header {
+  display: flex;
+}
+
 ul {
   list-style-type: none;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #818184;
+  text-decoration: none;
 }
