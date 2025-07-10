@@ -32,6 +32,8 @@ html {
 
 .sidebar {
   background-color: #005B94;
+  grid-column: 1 / 2;
+  grid-row: 2 / 4;
 }
 
 .nav {
