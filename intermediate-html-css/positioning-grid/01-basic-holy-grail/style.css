@@ -12,6 +12,7 @@ html {
 
   display: grid;
   gap: 15px;
+  grid-template-rows: 100px 100px 500px 100px;
 }
 
 .container div {
