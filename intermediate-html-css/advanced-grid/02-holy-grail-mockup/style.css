@@ -21,6 +21,9 @@
 
 .header {
   background-color: #393f4d;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .menu ul,
