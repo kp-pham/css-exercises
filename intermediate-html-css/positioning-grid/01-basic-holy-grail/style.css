@@ -36,10 +36,12 @@ html {
 
 .nav {
   background-color: #642cde;
+  grid-column: 2 / 3;
 }
 
 .article {
   background-color: #7E1DC3;
+  grid-column: 2 / 3;
 }
 
 .footer {
