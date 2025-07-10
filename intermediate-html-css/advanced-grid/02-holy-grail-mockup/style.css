@@ -38,6 +38,9 @@
 
 .sidebar {
   background-color: #C50208;
+
+  display: grid;
+  gap: 50px;
 }
 
 .sidebar .photo {
