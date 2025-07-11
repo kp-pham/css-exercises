@@ -29,7 +29,12 @@
 }
 
 .logo {
-  text-align: left;
+  /* text-align: left; */
+  justify-self: start;
+}
+
+.menu {
+  align-items: center;
 }
 
 .menu ul,
